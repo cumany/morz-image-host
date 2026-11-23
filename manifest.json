@@ -1,0 +1,17 @@
+{
+  "id": "image-host",
+  "name": "图床",
+  "nameEn": "Image host",
+  "version": "1.0.0",
+  "minAppVersion": "0.3.0",
+  "description": "S3 兼容的图片上传：插入即上传、批量上传、远程图本地化、图库浏览",
+  "descriptionEn": "S3-compatible image upload: upload on insert, batch upload, localise remote images, gallery",
+  "author": "Morz",
+  "permissions": [
+    "vault:read",
+    "vault:write",
+    "workspace",
+    "settings",
+    "editor:insert"
+  ]
+}
